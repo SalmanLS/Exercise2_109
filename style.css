@@ -1,0 +1,29 @@
+#carousel1 {
+    padding: 20px;
+}
+
+body {
+    background-image: url(valo1.jpg);
+}
+
+#video {
+    color: white;
+}
+
+#link {
+    color: white;
+}
+
+#audio {
+    color: white;
+}
+
+#buttons {
+    background-color: rgb(28, 27, 27);
+    border: none;
+}
+
+video {
+    width: 1280px;
+    height: 720px;
+}
